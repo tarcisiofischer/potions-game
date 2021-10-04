@@ -1,0 +1,90 @@
+{ "frames": [
+   {
+    "filename": "sprinkles 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 28, "h": 43 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 43 },
+    "sourceSize": { "w": 28, "h": 43 },
+    "duration": 100
+   },
+   {
+    "filename": "sprinkles 1.aseprite",
+    "frame": { "x": 28, "y": 0, "w": 28, "h": 43 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 43 },
+    "sourceSize": { "w": 28, "h": 43 },
+    "duration": 100
+   },
+   {
+    "filename": "sprinkles 2.aseprite",
+    "frame": { "x": 56, "y": 0, "w": 28, "h": 43 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 43 },
+    "sourceSize": { "w": 28, "h": 43 },
+    "duration": 100
+   },
+   {
+    "filename": "sprinkles 3.aseprite",
+    "frame": { "x": 84, "y": 0, "w": 28, "h": 43 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 43 },
+    "sourceSize": { "w": 28, "h": 43 },
+    "duration": 100
+   },
+   {
+    "filename": "sprinkles 4.aseprite",
+    "frame": { "x": 112, "y": 0, "w": 28, "h": 43 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 43 },
+    "sourceSize": { "w": 28, "h": 43 },
+    "duration": 100
+   },
+   {
+    "filename": "sprinkles 5.aseprite",
+    "frame": { "x": 140, "y": 0, "w": 28, "h": 43 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 43 },
+    "sourceSize": { "w": 28, "h": 43 },
+    "duration": 100
+   },
+   {
+    "filename": "sprinkles 6.aseprite",
+    "frame": { "x": 168, "y": 0, "w": 28, "h": 43 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 43 },
+    "sourceSize": { "w": 28, "h": 43 },
+    "duration": 100
+   },
+   {
+    "filename": "sprinkles 7.aseprite",
+    "frame": { "x": 196, "y": 0, "w": 28, "h": 43 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 43 },
+    "sourceSize": { "w": 28, "h": 43 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.29-x64",
+  "image": "sprinkles.png",
+  "format": "RGBA8888",
+  "size": { "w": 224, "h": 43 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
